@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
-
+const cors= require('cors')
+app.use(cors())
 let port = 4500;
 
 songs = [
