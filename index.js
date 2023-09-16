@@ -12,9 +12,10 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "With Me",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693565464/Yadah-With-me-_TrendyBeatz.com_usjrce.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694864176/Yadah-With-me-_TrendyBeatz.com_brdvy7.mp3",
+      
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -25,9 +26,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Never Seen",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693565663/Yadah-Never-seen-_TrendyBeatz.com_oj6tik.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694864313/Yadah-Never-seen-_TrendyBeatz.com_sztfoh.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -38,9 +39,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Ijuru Eligwe J'uwa",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693565810/Yadah-Ijuru-Eligwe-j-uwa-_TrendyBeatz.com_yd5vea.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694864544/Yadah-Ijuru-Eligwe-j-uwa-_TrendyBeatz.com_daini1.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -51,9 +52,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "By Yourself",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693566119/Yadah-By-Yourself-_TrendyBeatz.com_vnfkwo.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694864655/Yadah-By-Yourself-_TrendyBeatz.com_ckd8kc.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -64,9 +65,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Onye Nwere Jesus",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693566336/Yadah-Onye-nwere-Jesus-_TrendyBeatz.com_f2yyp3.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694864747/Yadah-Onye-nwere-Jesus-_TrendyBeatz.com_dpfdr2.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -77,7 +78,7 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "What Do I Have",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694864840/Yadah-What-do-I-have-_TrendyBeatz.com_jszdt9.mp3",
     song_url:
       "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693566516/Yadah-What-do-I-have-_TrendyBeatz.com_zxjoxk.mp3",
     recorded: "2023 Music",
@@ -90,9 +91,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Obaruba",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693567600/Yadah-Obaruba-_TrendyBeatz.com_jjibfb.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694864937/Yadah-Obaruba-_TrendyBeatz.com_j523pr.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -103,9 +104,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Na Your hand",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693568436/Yadah-Na-Your-Hand-_TrendyBeatz.com_wemokk.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694865026/Yadah-Na-Your-Hand-_TrendyBeatz.com_bwe8bn.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -116,9 +117,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Kelerem Chimo",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693568601/Yadah-Kelerem-chimo-_TrendyBeatz.com_vv1xxc.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694865116/Yadah-Kelerem-chimo-_TrendyBeatz.com_a8kbro.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -129,9 +130,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Father",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693568873/Yadah-Father-_TrendyBeatz.com_lnzjjf.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694865196/Yadah-Father-_TrendyBeatz.com_zub6pw.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -142,9 +143,9 @@ songs = [
     album_title: "Fathered By The Best Album",
     track_name: "Bless The Lord",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693565371/Yadah-Fathered-by-the-best-Album-Art1_ot6u2b.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694862322/Yadah-Fathered-by-the-best-Album-Art1_wbpesd.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693569311/Yadah-Bless-the-Lord-_TrendyBeatz.com_o7o3iz.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694865299/Yadah-Bless-the-Lord-_TrendyBeatz.com_xch0vy.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -155,9 +156,9 @@ songs = [
     album_title: "The Afro Gospel EP Album",
     track_name: "Nothing Impossible Afro",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693569562/Frank-Edwards-The-Afro-Gospel-EPArtwork1_crvt3d.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694865402/Frank-Edwards-The-Afro-Gospel-EPArtwork1_i9owex.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693570084/Frank-Edwards-Nothing-Impossible-Afro-_TrendyBeatz.com_qgbyyx.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694865712/Frank-Edwards-Nothing-Impossible-Afro-_TrendyBeatz.com_dsn0ky.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -168,9 +169,9 @@ songs = [
     album_title: "The Afro Gospel EP Album",
     track_name: "Holy Afro",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693569562/Frank-Edwards-The-Afro-Gospel-EPArtwork1_crvt3d.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694865402/Frank-Edwards-The-Afro-Gospel-EPArtwork1_i9owex.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693570386/Frank-Edwards-Holy-Afro-_TrendyBeatz.com_1_ofqtdz.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694865836/Frank-Edwards-Holy-Afro-_TrendyBeatz.com_vfanal.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -181,9 +182,9 @@ songs = [
     album_title: "The Afro Gospel EP Album",
     track_name: "Hallelujah Afro",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693569562/Frank-Edwards-The-Afro-Gospel-EPArtwork1_crvt3d.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694865402/Frank-Edwards-The-Afro-Gospel-EPArtwork1_i9owex.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693570910/Frank-Edwards-Hallelujah-Afro-_TrendyBeatz.com_me09d7.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694865919/Frank-Edwards-Hallelujah-Afro-_TrendyBeatz.com_onk6xk.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -194,9 +195,9 @@ songs = [
     album_title: "Heaven Has Come Album",
     track_name: "Oh Jesu ft Tope Alabi",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693571137/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_ov2j9e.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694866118/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_bx6lfh.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693571327/Ty-Bello-Ft-Tope-Alabi-Oh-Jesu-_TrendyBeatz.com_1_ycfftp.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694866261/Ty-Bello-Ft-Tope-Alabi-Oh-Jesu-_TrendyBeatz.com_1_jpstnf.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -207,9 +208,9 @@ songs = [
     album_title: "Heaven Has Come Album",
     track_name: "He Fights For Me ft Tomi Covered Grace, Omosebi, 121Selah",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693571137/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_ov2j9e.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694866118/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_bx6lfh.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693571681/Ty-Bello-Ft-Tomi-Favored-Grace-Omosebi-and-121Selah-He-Fights-For-Me-_TrendyBeatz.com_bsjgiq.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694866426/Ty-Bello-Ft-Tomi-Favored-Grace-Omosebi-and-121Selah-He-Fights-For-Me-_TrendyBeatz.com_mxuyhv.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -220,9 +221,9 @@ songs = [
     album_title: "Heaven Has Come Album",
     track_name: "Closer Than Close ft Sunmisola Agbebi, Isi Igenegba",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693571137/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_ov2j9e.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694866118/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_bx6lfh.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693572386/Ty-Bello-Ft-Sunmisola-Agbebi-and-Isi-Igenegba-Closer-Than-Close-_TrendyBeatz.com_xvfjt4.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694866542/Ty-Bello-Ft-Sunmisola-Agbebi-and-Isi-Igenegba-Closer-Than-Close-_TrendyBeatz.com_xd282s.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -233,9 +234,9 @@ songs = [
     album_title: "Heaven Has Come Album",
     track_name: "Fill Us ft Ko'rale",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693571137/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_ov2j9e.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694866118/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_bx6lfh.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693572201/Ty-Bello-Ft-Ko-rale-Fill-Us-_TrendyBeatz.com_gkyu9j.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694867491/Ty-Bello-Ft-Ko-rale-Fill-Us-_TrendyBeatz.com_p5x6g6.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -246,9 +247,9 @@ songs = [
     album_title: "Heaven Has Come Album",
     track_name: "Because You Are God ft ighiwiyisi Jacobs",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693571137/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_ov2j9e.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694866118/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_bx6lfh.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693572762/Ty-Bello-Ft-Ighiwiyisi-Jacobs-Because-You-Are-God-_TrendyBeatz.com_sog7mt.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694867583/Ty-Bello-Ft-Ighiwiyisi-Jacobs-Because-You-Are-God-_TrendyBeatz.com_xfeyxh.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   },
@@ -259,9 +260,9 @@ songs = [
     album_title: "Heaven Has Come Album",
     track_name: "Torrents ft Jo Deep",
     album_cover:
-      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1693571137/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_ov2j9e.jpg",
+      "https://res.cloudinary.com/dsk0vcgd7/image/upload/v1694866118/Ty-Bello-Heaven-Has-Come-AlbumArtwork1_bx6lfh.jpg",
     song_url:
-      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1693572822/Ty-Bello-Ft-Jo-Deep-Torrents-_TrendyBeatz.com_c9ul8x.mp3",
+      "https://res.cloudinary.com/dsk0vcgd7/video/upload/v1694867668/Ty-Bello-Ft-Jo-Deep-Torrents-_TrendyBeatz.com_en9nax.mp3",
     recorded: "2023 Music",
     country: "Naija Music",
   }
